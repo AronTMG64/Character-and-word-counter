@@ -1,0 +1,41 @@
+body {
+  background-color: #F5F5F5;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 40px;
+}
+
+#container {
+  width: 80%;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #FFFFFF;
+  border: 1px solid #CCCCCC;
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 50px;
+}
+
+#textarea {
+  width: 97.5%;
+  height: 200px;
+  border-radius: 5px;
+  border: 1px solid #CCCCCC;
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+#char, #words {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+#char span, #words span {
+  font-weight: bold;
+  margin-right: 5px;
+}
